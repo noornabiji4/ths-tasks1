@@ -1,2 +1,3 @@
-# ths-tasks1
-All task during The Hacking School
+# The Hacking School
+All task during The Hacking School.
+
