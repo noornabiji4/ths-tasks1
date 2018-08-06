@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<script type="text/javascript">
+	var alice=0;
+    var bob=0;
+		function compareTriplets(a, b) {
+    if (a[0] > b[0]){
+        alice++;
+    }
+    else if(b[0] > a[0]){
+        bob++;
+    }
+    if(a[1] > b[1]){
+         alice++;       
+     }
+    else if(b[1] > a[1]){
+        bob++ ;
+    }
+    if(a[2] > b[2]){
+         alice++;       
+     }
+    else if(b[2] > a[2]){
+        bob++ ;
+   
+    }
+ console.log(alice,bob);
+}
+compareTriplets();
+
+
+
+
+</script>
+</body>
+</html>		
