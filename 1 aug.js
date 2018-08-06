@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Today Lecture</title>
-</head>
-<body>
-	<script type="text/javascript">
+//notes
 	git start
 	samwork
 	gitclone
@@ -26,20 +20,3 @@
 
 	}
 	var c =foo(2);
-
-
-
-
-
-
-
-
-
-
-
-
-
-	</script>
-
-</body>
-</html>
