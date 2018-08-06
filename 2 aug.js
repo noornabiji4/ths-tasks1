@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Today Document and Programe</title>
-</head>
-<body>
-	<script type="text/javascript">
+
 		/* Document
 		javascript woking in background hood.
 		js exicution contest line line by xicute a fuction
@@ -51,9 +45,3 @@ reverse ('noor');
 
 
 
-
-
-	</script>
-
-</body>
-</html>
