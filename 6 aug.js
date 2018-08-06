@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-	<script type="text/javascript">
+
    //javascript object notation that is jason
    //.map
    //time 
@@ -62,14 +56,3 @@ function miniMaxSum(arr) {
 console.log(min,max);
 }
 miniMaxSum();
-
-
-
-
-
-
-
-
-</script>
-</body>
-</html>
