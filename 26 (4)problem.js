@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Program</title>
-</head>
-<body>
-	<script type="text/javascript">
+
 		//write randome function genrate number between 5 to 7
 		/*function random(){
 			var a=5+Math.random()*2;
@@ -42,7 +36,3 @@ for(var i=noor.length-1;i>=0;i--){
 console.log(b);
 }
 revers('saif');
-	</script>
-
-</body>
-</html>
