@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Today</title>
-</head>
-<body>
-	<script type="text/javascript">
+<
 		/*var z=['a','b','c','d','e']
 		z.push(['a','b','c']);		
 		z.push({a:20});
@@ -51,6 +45,3 @@ count toatal no of 0 from 1 to n
 n=50
 
 
-</script>
-</body>
-</html>
