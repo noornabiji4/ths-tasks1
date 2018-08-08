@@ -1,0 +1,21 @@
+                module
+		comman js module AMD pattern
+
+		new key word have to use this 4 step
+		1-brand new object are created 
+		2-newly created object get link to another object
+		3-it will pass this contest to the function call 
+		4-function dont have a return it will return that this
+		prototype
+		shadowing prototype
+		INHIRITANCE AND PROTYPE CHAIN
+		object protype 
+		function protype
+		object linkege
+		hard binding 
+		constructor
+		ES6
+
+
+
+		tommarow DOM 
